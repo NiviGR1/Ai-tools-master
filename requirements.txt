@@ -1,0 +1,7 @@
+streamlit==1.37.1
+pdfplumber==0.11.4
+torch
+transformers==4.41.2
+sentence-transformers==2.7.0
+chromadb==0.4.22
+posthog<3.0.0
